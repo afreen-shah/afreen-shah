@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @afreen-shah
 - 👀 I’m interested in data science and machine learning.
-- 🌱 I’m currently learning object oriented programming.
+- 🌱 I’m currently learning graph theory
 - 💞️ I’m looking to collaborate on data analysis projects.
 - 📫 How to reach me afreenshah@berkeley.edu
 
